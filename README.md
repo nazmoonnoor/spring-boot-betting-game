@@ -10,6 +10,7 @@ API offers endpoint for player to send a bet and whole number from 1 to 100 to a
 - Java 17
 - Spring boot
 - Maven
+- REST API
 
 
 ## Features
