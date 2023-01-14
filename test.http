@@ -1,4 +1,4 @@
-GET http://localhost:8080/api/bet/9
+GET http://localhost:8080/api/bet/90
 Accept: application/json
 
 ###
