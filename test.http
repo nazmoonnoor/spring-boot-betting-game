@@ -1,0 +1,4 @@
+GET http://localhost:8080/api/bet/9
+Accept: application/json
+
+###
